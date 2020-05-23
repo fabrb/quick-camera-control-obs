@@ -17,16 +17,16 @@ After that, (1) click on the Local Files checkbox. This will allow you to (2) se
 ![03](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/img_03.png "Plugin Configuration")
 
 ## Inputs ⭐.
-*ENTER*: Start Broadcasting your camera.
-*0*: Stop Broadcasting your camera.
-
+*ENTER*: Start Broadcasting your camera.\
+*0*: Stop Broadcasting your camera.\
+\
 *1*: Move to the top left.\
 *2*: Move to the top right.\
 *3*: Move to the bottom left.\
 *4*: Move to the bottom right.\
 \
 *3*: Increase webcam size.\
-*4*: Decrease webcam size.\
+*4*: Decrease webcam size.
 
 ![04](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/gif_01.gif "Good!")
 
