@@ -2,6 +2,7 @@
  Plugin for quick camera modifier for OBS
  
 ## How to use 🤔?
+First, you will only need the index.html\
 This plugin requires access to your webcam to work. With that, you need to add the command line below to OBS .exe:
 
 `--enable-media-stream`
