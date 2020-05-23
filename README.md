@@ -1,5 +1,5 @@
 # OBS-FastCameraControl
- Plugin for quick camera modifier for OBS
+ Plugin for quick camera modifier on OBS
  
 ## How to use 🤔?
 First, you will only need the index.html\
