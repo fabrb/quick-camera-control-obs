@@ -20,7 +20,7 @@ After that, (1) click on the Local Files checkbox. This will allow you to (2) se
 *ENTER*: Start Broadcasting your camera.
 *0*: Stop Broadcasting your camera.
 
-*1*: Move to the top left.
+*1*: Move to the top left.\
 *2*: Move to the top right.
 *3*: Move to the bottom left.
 *4*: Move to the bottom right.
