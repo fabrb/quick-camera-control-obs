@@ -1,7 +1,7 @@
 # OBS-FastCameraControl
  Plugin for quick camera modifier on OBS
  
-## How to use 🤔?
+## How to use? 🤔
 First, you will only need the index.html\
 This plugin requires access to your webcam to work. With that, you need to add the command line below to OBS .exe:
 
@@ -9,7 +9,7 @@ This plugin requires access to your webcam to work. With that, you need to add t
 
 ![01](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/img_01.png "OBS Configuration")
 
-## Configuration on OBS ⚙.
+## Configuration on OBS ⚙
 To add the plugin, right click inside the Sources section, and add the Browser element.
 ![02](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/img_02.png "Inside OBS")
 
@@ -17,7 +17,7 @@ After that, (1) click on the Local Files checkbox. This will allow you to (2) se
 
 ![03](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/img_03.png "Plugin Configuration")
 
-## Inputs ⭐.
+## Inputs ⭐
 *ENTER*: Start Broadcasting your camera.\
 *0*: Stop Broadcasting your camera.\
 \
@@ -26,8 +26,8 @@ After that, (1) click on the Local Files checkbox. This will allow you to (2) se
 *3*: Move to the bottom left.\
 *4*: Move to the bottom right.\
 \
-*3*: Increase webcam size.\
-*4*: Decrease webcam size.
+*5*: Increase webcam size.\
+*6*: Decrease webcam size.
 
 ![04](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/gif_01.gif "Good!")
 
