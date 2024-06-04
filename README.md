@@ -29,7 +29,5 @@ After that, (1) click on the Local Files checkbox. This will allow you to (2) se
 *5*: Increase webcam size.\
 *6*: Decrease webcam size.
 
-![04](https://github.com/orbtz/OBS-QuickCameraControl/blob/master/readme_images/gif_01.gif "Good!")
-
 ### Note from the author ✉
 This was a small experiment made in one day. I might, or might not update it with new features. Cheers!
